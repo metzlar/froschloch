@@ -21,3 +21,7 @@ Frühstücksbüffet, köstliche Mahlzeiten, kleines Mittagsmenü, wunderschöne 
 
 Weitere Informationen finden Sie auf unsere Facebook-Seite.
 Reservieren können über Booking.com gemacht werden, telefonisch oder senden Sie uns eine E-mail.`
+
+![Card](/assets/img/card.jpg)
+
+![Card](/assets/img/nature.jpg)
