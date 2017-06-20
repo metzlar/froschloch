@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section.page-header{
+    a.btn {
+        display:none;
+    }
+
+    background-image: url('assets/img/bg.jpg');
+}
